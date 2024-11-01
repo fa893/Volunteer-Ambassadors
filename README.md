@@ -275,7 +275,7 @@
             <div class="ambassador-name">راشد ابو دلبوح</div>
         </div>
         <div class="ambassador">
-            <img src="https://assets.onecompiler.app/42wttk5ev/42wtwc5kj/images.png" alt="ميار هواري">
+            <img src="https://assets.onecompiler.app/42wttk5ev/42wu92v9r/IMG_6225.JPG" alt="ميار هواري">
             <div class="ambassador-name">ميار هواري</div>
         </div>
     </section>
