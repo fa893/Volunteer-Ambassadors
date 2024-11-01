@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="ar">
 
 <head>
@@ -224,9 +224,6 @@
     </section>
 </main>
 
-<footer>
-    <p>حقوق النشر &copy; 2024 منصة نحن. جميع الحقوق محفوظة.</p>
-</footer>
 
 </body>
 </html>
