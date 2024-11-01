@@ -66,6 +66,29 @@
             transition: background-color 0.3s; /* تأثير عند التمرير */
             font-weight: bold; /* جعل النص غامق */
         }
+.buttons-container {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-bottom: 10px;
+        }
+
+        .buttons-container a {
+            background-color: #ffffff; /* خلفية الزر */
+            color: #004d4d;
+            padding: 8px 12px;
+            border-radius: 5px;
+            text-decoration: none;
+            font-weight: bold;
+            transition: background-color 0.3s;
+        }
+
+        /* تنسيق عندما يحوم المستخدم فوق الأزرار */
+        .buttons-container a:hover {
+            background-color: #004d4d;
+            color: #ffffff;
+        }
 
         .create-account a:hover {
             background-color: #004d4d; /* تغيير لون الخلفية عند التمرير */
@@ -172,13 +195,47 @@
 
 <header>
     <h1>مرحبًا بكم في بوابة سفراء نحنُ - جامعة آل البيت </h1>
-    <div class="create-account">
-        <a href="https://www.nahno.org/register/user/index.php" aria-label="إنشاء حساب جديد في منصة نحن">إنشاء حساب</a>
+    <div class="buttons-container">
+        
+   
+<a href="https://www.nahno.org/register/user/index.php" target="_blank" aria-label="إنشاء حساب جديد في منصة نحن">إنشاء حساب</a>
+        <a href="https://chat.whatsapp.com/your-group-link" target="_blank" aria-label="الانضمام إلى قروب الفرص على واتساب">انضم إلى قروب الفرص</a>
+        
+       
+<a href="https://drive.google.com/file/d/1PTmmGoodAu_-QTr_CYKS98RFLrdMiPJN/view?usp=sharing" target="_blank" aria-label="كيفية عمل حساب شخصي">كيف أعمل حساب شخصي</a>
+        
+        <
+
+      
+
+   
+<a href="https://drive.google.com/file/d/1RNwlWL8Wkhjyqe3WGqpgnspRjQcbuLoU/view?usp=sharing" target="_blank" aria-label="كيفية متابعة فرصة">كيف أعمل متابعة لفرصة</a>
+        
+        <
+
+      
+
+   
+<a href="https://drive.google.com/file/d/1x0Ju6ZEXechpnWiaFgBe0AJXeS8gC957/view?usp=sharing" target="_blank" aria-label="كيفية عمل حساب لمؤسسة">كيف أعمل حساب لمؤسسة</a>
     </div>
-    <div class="logo-container">
-        <img src="https://assets.onecompiler.app/42wttk5ev/42wttjqj4/logo%20(2).png" alt="شعار منصة نحن">
-        <img src="https://assets.onecompiler.app/42wttk5ev/42wttjqj4/22%20(3).png" alt="شعار جامعة آل البيت">
-    </div>
+    
+    
+<div class="logo-container">
+        
+        
+
+     
+
+  
+<img src="https://assets.onecompiler.app/42wttk5ev/42wttjqj4/logo%20(2).png" alt="شعار منصة نحن">
+        
+    
+
+ 
+<img src="https://assets.onecompiler.app/42wttk5ev/42wttjqj4/22%20(3).png" alt="شعار جامعة آل البيت">
+    
+    </
+</div>
 </header>
 
 <main>
