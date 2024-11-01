@@ -44,7 +44,7 @@
         img {
             max-width: 100%; /* يسمح بعرض الصورة كاملة */
             height: auto; /* يجعل الارتفاع يتناسب تلقائياً مع العرض */
-            border-radius: 10px; /* لجعل الحواف مستديرة */
+           
         }
 
         .logo-container img {
@@ -223,7 +223,9 @@
         </div>
     </section>
 </main>
-
+<footer>
+    <p>جميع الحقوق محفوظة © 2024</p>
+</footer>
 
 </body>
 </html>
