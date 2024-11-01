@@ -176,8 +176,8 @@
         <a href="https://www.nahno.org/register/user/index.php" aria-label="إنشاء حساب جديد في منصة نحن">إنشاء حساب</a>
     </div>
     <div class="logo-container">
-        <img src="[https://assets.onecompiler.app/42wttk5ev/42wttjqj4/logo%20(2).png](https://assets.onecompiler.app/42wttk5ev/42wttjqj4/logo%20(2).png)" alt="شعار منصة نحن">
-        <img src="[https://assets.onecompiler.app/42wttk5ev/42wttjqj4/22%20(3).png](https://assets.onecompiler.app/42wttk5ev/42wttjqj4/22%20(3).png)" alt="شعار جامعة آل البيت">
+        <img src="https://assets.onecompiler.app/42wttk5ev/42wttjqj4/logo%20(2).png" alt="شعار منصة نحن">
+        <img src="https://assets.onecompiler.app/42wttk5ev/42wttjqj4/22%20(3).png" alt="شعار جامعة آل البيت">
     </div>
 </header>
 
