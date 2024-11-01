@@ -14,7 +14,7 @@
             background-color: #3cc4cc; /* لون الخلفية الرئيسي */
             margin: 0;
             padding: 20px;
-            color: #ffffff; /* لون النص العام */
+            color: #ffffcf; /* لون النص العام */
             line-height: 1.6; /* تباعد الأسطر */
             direction: rtl; /* اتجاه الكتابة من اليمين لليسار */
         }
@@ -22,7 +22,7 @@
         header {
             text-align: center;
             padding: 10px; /* تقليل مساحة الحشو في الهيدر */
-            background-color: #004d4d; /* لون خلفية الهيدر */
+            background-color: #ffffff; /* لون خلفية الهيدر */
             border-radius: 10px; /* جعل الحواف مستديرة */
             box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
         }
