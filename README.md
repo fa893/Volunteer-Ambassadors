@@ -267,11 +267,11 @@
     <section class="ambassadors-section">
         <h2>سفراء جامعة آل البيت</h2>
         <div class="ambassador">
-            <img src="https://assets.onecompiler.app/42wttk5ev/42wtwc5kj/457497596_1216089772854279_8802289237022515094_n.jpg" alt="فرحان الخوالدة">
+            <img src="https://assets.onecompiler.app/42wttk5ev/42wuhc9ky/download%20(4).png" alt="فرحان الخوالدة">
             <div class="ambassador-name">فرحان الخوالدة</div>
         </div>
         <div class="ambassador">
-            <img src="https://assets.onecompiler.app/42wttk5ev/42wtwc5kj/png-clipart-computer-icons-man-icon-logo-silhouette-thumbnail.png" alt="راشد ابو دلبوح">
+            <img src="https://assets.onecompiler.app/42wttk5ev/42wuhc9ky/853f1bef-2633-468b-b1f7-d26c76d14c73.jfif" alt="راشد ابو دلبوح">
             <div class="ambassador-name">راشد ابو دلبوح</div>
         </div>
         <div class="ambassador">
