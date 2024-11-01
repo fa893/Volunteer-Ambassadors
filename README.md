@@ -216,7 +216,7 @@
       
 
    
-<a href="https://drive.google.com/file/d/1x0Ju6ZEXechpnWiaFgBe0AJXeS8gC957/view?usp=sharing" target="_blank" aria-label="كيفية عمل حساب لمؤسسة">كيف أعمل حساب لمؤسسة</a>
+<a href="https://drive.google.com/file/d/1x0Ju6ZEXechpnWiaFgBe0AJXeS8gC957/view?usp=sharing" target="_blank" aria-label="كيفية عمل فرصة ">كيف أعمل حساب لمؤسسة</a>
     </div>
     
     
