@@ -64,7 +64,7 @@
             transition: background-color 0.3s; /* تأثير عند التمرير */
             font-weight: bold; /* جعل النص غامق */
         }
-        
+
         .buttons-container {
             display: flex;
             justify-content: center;
@@ -199,21 +199,21 @@
         <a href="https://chat.whatsapp.com/your-group-link" target="_blank" aria-label="الانضمام إلى قروب الفرص على واتساب">انضم إلى قروب الفرص</a>
         <a href="https://drive.google.com/file/d/1PTmmGoodAu_-QTr_CYKS98RFLrdMiPJN/view?usp=sharing" target="_blank" aria-label="كيفية عمل حساب شخصي">كيف أعمل حساب شخصي</a>
         <a href="https://drive.google.com/file/d/1RNwlWL8Wkhjyqe3WGqpgnspRjQcbuLoU/view?usp=sharing" target="_blank" aria-label="كيفية متابعة فرصة">كيف أعمل متابعة لفرصة</a>
-        <a href="https://drive.google.com/file/d/1x0Ju6ZEXechpnWiaFgBe0AJXeS8gC957/view?usp=sharing" target="_blank" aria-label="كيفية عمل مدونة شخصية">كيف أعمل مدونة شخصية</a>
+        <a href="https://drive.google.com/file/d/1x0Ju6ZEXechpnWiaFgBe0AJXeS8gC957/view?usp=sharing" target="_blank" aria-label="كيفية عمل فرصة ">كيف أعمل فرصة</a>
+    </div>
+    
+    <div class="logo-container">
+        <img src="https://assets.onecompiler.app/42wttk5ev/42wttjqj4/logo%20(2).png" alt="شعار منصة نحن">
+        <img src="https://assets.onecompiler.app/42wttk5ev/42wttjqj4/22%20(3).png" alt="شعار مؤسسة ولي العهد">
     </div>
 </header>
 
 <section>
-    <h2>عن المنصة</h2>
-    <p>منصة "نحنُ" هي منصة وطنية تهدف إلى تطوع ومشاركة الشباب تحت رعاية مؤسسة ولي العهد. تهدف المنصة إلى تعزيز روح التطوع والمشاركة الفعالة بين الشباب وتمكينهم من الحصول على فرص التطوع المختلفة.</p>
-</section>
-
-<section>
     <h2>نشاطاتنا</h2>
     <div class="activity-images">
-        <img src="path_to_image1.jpg" alt="نشاط 1" />
-        <img src="path_to_image2.jpg" alt="نشاط 2" />
-        <img src="path_to_image3.jpg" alt="نشاط 3" />
+        <img src="https://assets.onecompiler.app/42wttk5ev/42wtwc5kj/mafraq-1.jpg" alt="نشاط 1" />
+        <img src="https://assets.onecompiler.app/42wttk5ev/42wtwc5kj/252549026_1133404873858449_4639436969075829273_n.jpg" alt="نشاط 2" />
+        <img src="https://assets.onecompiler.app/42wttk5ev/42wtwc5kj/251979006_1133405103858426_4198342443595373620_n.jpg" alt="نشاط 3" />
     </div>
     <div class="future-message">
         <p>تابعوا نشاطاتنا القادمة!</p>
@@ -221,17 +221,20 @@
 </section>
 
 <section class="ambassadors-section">
-    <h2>سفراؤنا</h2>
+    <h2>سفراء جامعة آل البيت</h2>
     <div class="ambassador">
-        <img src="path_to_ambassador1.jpg" alt="سفير 1" />
-        <div class="ambassador-name">اسم السفير 1</div>
+        <img src="https://assets.onecompiler.app/42wttk5ev/42wuhc9ky/download%20(4).png" alt="السفير 1" />
+        <div class="ambassador-name">فرحان الخوالدة </div>
     </div>
     <div class="ambassador">
-        <img src="path_to_ambassador2.jpg" alt="سفير 2" />
-        <div class="ambassador-name">اسم السفير 2</div>
+        <img src="https://assets.onecompiler.app/42wttk5ev/42wuhc9ky/853f1bef-2633-468b-b1f7-d26c76d14c73.jfif" alt="السفير 2" />
+        <div class="ambassador-name">راشد ابو دلبوح</div>
+    </div>
+    <div class="ambassador">
+        <img src="https://assets.onecompiler.app/42wttk5ev/42wuc5uh4/IMG_9203.JPG" alt="السفير 3" />
+        <div class="ambassador-name">ميار هواري </div>
     </div>
 </section>
-
 <footer>
     <p>جميع الحقوق محفوظة © 2024</p>
     <p>تم تصميم هذه البوابة من قبل المهندس فرحان الخوالدة</p> <!-- العبارة المضافة هنا -->
