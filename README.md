@@ -196,7 +196,7 @@
     <h1>مرحبًا بكم في بوابة سفراء نحنُ - جامعة آل البيت </h1>
     <div class="buttons-container">
         <a href="https://www.nahno.org/register/user/index.php" target="_blank" aria-label="إنشاء حساب جديد في منصة نحن">إنشاء حساب</a>
-        <a href="https://chat.whatsapp.com/your-group-link" target="_blank" aria-label="الانضمام إلى قروب الفرص على واتساب">انضم إلى قروب الفرص</a>
+        <a href="https://chat.whatsapp.com/LWJ1jEfVopNLcu04SKBPuJ" target="_blank" aria-label="الانضمام إلى قروب الفرص على واتساب">انضم إلى قروب الفرص</a>
         <a href="https://drive.google.com/file/d/1PTmmGoodAu_-QTr_CYKS98RFLrdMiPJN/view?usp=sharing" target="_blank" aria-label="كيفية عمل حساب شخصي">كيف أعمل حساب شخصي</a>
         <a href="https://drive.google.com/file/d/1RNwlWL8Wkhjyqe3WGqpgnspRjQcbuLoU/view?usp=sharing" target="_blank" aria-label="كيفية متابعة فرصة">كيف أعمل متابعة لفرصة</a>
         <a href="https://drive.google.com/file/d/1x0Ju6ZEXechpnWiaFgBe0AJXeS8gC957/view?usp=sharing" target="_blank" aria-label="كيفية عمل فرصة ">كيف أعمل فرصة</a>
