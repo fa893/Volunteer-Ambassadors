@@ -1,4 +1,3 @@
-
 <html lang="ar">
 
 <head>
@@ -44,7 +43,6 @@
         img {
             max-width: 100%; /* يسمح بعرض الصورة كاملة */
             height: auto; /* يجعل الارتفاع يتناسب تلقائياً مع العرض */
-           
         }
 
         .logo-container img {
@@ -66,7 +64,8 @@
             transition: background-color 0.3s; /* تأثير عند التمرير */
             font-weight: bold; /* جعل النص غامق */
         }
-.buttons-container {
+        
+        .buttons-container {
             display: flex;
             justify-content: center;
             flex-wrap: wrap;
@@ -196,93 +195,48 @@
 <header>
     <h1>مرحبًا بكم في بوابة سفراء نحنُ - جامعة آل البيت </h1>
     <div class="buttons-container">
-        
-   
-<a href="https://www.nahno.org/register/user/index.php" target="_blank" aria-label="إنشاء حساب جديد في منصة نحن">إنشاء حساب</a>
+        <a href="https://www.nahno.org/register/user/index.php" target="_blank" aria-label="إنشاء حساب جديد في منصة نحن">إنشاء حساب</a>
         <a href="https://chat.whatsapp.com/your-group-link" target="_blank" aria-label="الانضمام إلى قروب الفرص على واتساب">انضم إلى قروب الفرص</a>
-        
-       
-<a href="https://drive.google.com/file/d/1PTmmGoodAu_-QTr_CYKS98RFLrdMiPJN/view?usp=sharing" target="_blank" aria-label="كيفية عمل حساب شخصي">كيف أعمل حساب شخصي</a>
-        
-        <
-
-      
-
-   
-<a href="https://drive.google.com/file/d/1RNwlWL8Wkhjyqe3WGqpgnspRjQcbuLoU/view?usp=sharing" target="_blank" aria-label="كيفية متابعة فرصة">كيف أعمل متابعة لفرصة</a>
-        
-        <
-
-      
-
-   
-<a href="https://drive.google.com/file/d/1x0Ju6ZEXechpnWiaFgBe0AJXeS8gC957/view?usp=sharing" target="_blank" aria-label="كيفية عمل فرصة ">كيف أعمل فرصة</a>
+        <a href="https://drive.google.com/file/d/1PTmmGoodAu_-QTr_CYKS98RFLrdMiPJN/view?usp=sharing" target="_blank" aria-label="كيفية عمل حساب شخصي">كيف أعمل حساب شخصي</a>
+        <a href="https://drive.google.com/file/d/1RNwlWL8Wkhjyqe3WGqpgnspRjQcbuLoU/view?usp=sharing" target="_blank" aria-label="كيفية متابعة فرصة">كيف أعمل متابعة لفرصة</a>
+        <a href="https://drive.google.com/file/d/1x0Ju6ZEXechpnWiaFgBe0AJXeS8gC957/view?usp=sharing" target="_blank" aria-label="كيفية عمل مدونة شخصية">كيف أعمل مدونة شخصية</a>
     </div>
-    
-    
-<div class="logo-container">
-        
-        
-
-     
-
-  
-<img src="https://assets.onecompiler.app/42wttk5ev/42wttjqj4/logo%20(2).png" alt="شعار منصة نحن">
-        
-    
-
- 
-<img src="https://assets.onecompiler.app/42wttk5ev/42wttjqj4/22%20(3).png" alt="شعار جامعة آل البيت">
-    
-    </
-</div>
 </header>
 
-<main>
-    <section>
-        <h2>تعريف عن منصة نحن</h2>
-        <p>منصة "نحنُ" هي المنصة الوطنية لتطوع ومشاركة الشباب، والتي أُطلقت كأحد برامج مؤسسة ولي العهد بدعم من منظمة الأمم المتحدة للطفولة "يونيسف"، وبالتعاون مع وزارة الشباب. تهدف المنصة إلى تشجيع العمل التطوعي والمشاركة الشبابية من أجل إحداث تغيير إيجابي في المجتمعات.</p>
-        <p>تعتبر "نحنُ" الأولى من نوعها في المملكة، حيث تسعى لتوحيد الجهود المبذولة في مجال العمل التطوعي. تُتيح المنصة الفرص التطوعية من مختلف مؤسسات المجتمع المدني والشركات الخاصة والقطاع العام، مما يوفر للشباب إمكانية المشاركة في الأعمال التطوعية التي تناسب اهتماماتهم.</p>
-    </section>
+<section>
+    <h2>عن المنصة</h2>
+    <p>منصة "نحنُ" هي منصة وطنية تهدف إلى تطوع ومشاركة الشباب تحت رعاية مؤسسة ولي العهد. تهدف المنصة إلى تعزيز روح التطوع والمشاركة الفعالة بين الشباب وتمكينهم من الحصول على فرص التطوع المختلفة.</p>
+</section>
 
-    <section>
-        <h2>دور جامعة آل البيت</h2>
-        <p>تسعى جامعة آل البيت نحو أن تكون جامعة عالمية رائدة ومتميزة في مجالات التعلم والتعليم والبحث العلمي والابتكار وخدمة وتنمية المجتمع.</p>
-        <p>تهدف الجامعة إلى خلق بيئة تعليمية بحثية عملية ريادية، تحفز على التفكير الإبداعي وتعزز من قيم التعاون والمشاركة والعمل الجماعي، وتضمن جودة المخرجات التعليمية.</p>
-        <p>تمتاز جامعة آل البيت بمشاريعها ومبادراتها المجتمعية التي تدعم وتعزز من دور الشباب في تحقيق التنمية المستدامة.</p>
-    </section>
+<section>
+    <h2>نشاطاتنا</h2>
+    <div class="activity-images">
+        <img src="path_to_image1.jpg" alt="نشاط 1" />
+        <img src="path_to_image2.jpg" alt="نشاط 2" />
+        <img src="path_to_image3.jpg" alt="نشاط 3" />
+    </div>
+    <div class="future-message">
+        <p>تابعوا نشاطاتنا القادمة!</p>
+    </div>
+</section>
 
-    <section class="activity-images">
-        <h2>صور الأنشطة</h2>
-        <img src="https://assets.onecompiler.app/42wttk5ev/42wtwc5kj/mafraq-1.jpg" alt="صورة نشاط 1">
-        <img src="https://assets.onecompiler.app/42wttk5ev/42wtwc5kj/252549026_1133404873858449_4639436969075829273_n.jpg" alt="صورة نشاط 2">
-        <img src="https://assets.onecompiler.app/42wttk5ev/42wtwc5kj/251979006_1133405103858426_4198342443595373620_n.jpg" alt="صورة نشاط 3">
-    </section>
+<section class="ambassadors-section">
+    <h2>سفراؤنا</h2>
+    <div class="ambassador">
+        <img src="path_to_ambassador1.jpg" alt="سفير 1" />
+        <div class="ambassador-name">اسم السفير 1</div>
+    </div>
+    <div class="ambassador">
+        <img src="path_to_ambassador2.jpg" alt="سفير 2" />
+        <div class="ambassador-name">اسم السفير 2</div>
+    </div>
+</section>
 
-    <section class="future-message">
-        <h2>رسالتنا إلى المستقبل</h2>
-        <p>معًا نبني مستقبلًا أفضل. نحنُ نؤمن بقوة الشباب في إحداث التغيير، وسنستمر في دعم وتوفير الفرص لكل من يسعى إلى التطوع والمشاركة.</p>
-    </section>
-
-    <section class="ambassadors-section">
-        <h2>سفراء جامعة آل البيت</h2>
-        <div class="ambassador">
-            <img src="https://assets.onecompiler.app/42wttk5ev/42wuhc9ky/download%20(4).png" alt="فرحان الخوالدة">
-            <div class="ambassador-name">فرحان الخوالدة</div>
-        </div>
-        <div class="ambassador">
-            <img src="https://assets.onecompiler.app/42wttk5ev/42wuhc9ky/853f1bef-2633-468b-b1f7-d26c76d14c73.jfif" alt="راشد ابو دلبوح">
-            <div class="ambassador-name">راشد ابو دلبوح</div>
-        </div>
-        <div class="ambassador">
-            <img src="https://assets.onecompiler.app/42wttk5ev/42wuc5uh4/IMG_9203.JPG" alt="ميار هواري">
-            <div class="ambassador-name">ميار هواري</div>
-        </div>
-    </section>
-</main>
 <footer>
     <p>جميع الحقوق محفوظة © 2024</p>
+    <p>تم تصميم هذه البوابة من قبل المهندس فرحان الخوالدة</p> <!-- العبارة المضافة هنا -->
 </footer>
 
 </body>
+
 </html>
